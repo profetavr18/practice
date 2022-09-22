@@ -1,0 +1,21 @@
+p{
+    font-family: sans-serif;
+    background-color: lightsteelblue;
+}
+
+nav{
+    position: relative;
+    left: 1000px;
+}
+
+ul{
+  display: flex; 
+  list-style: none;  
+  flex-direction: row;
+}
+ul li{
+    margin-right: 5px;
+}
+header{
+    background-color: gray;
+}
